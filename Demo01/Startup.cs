@@ -32,7 +32,9 @@ namespace Demo01
             }
             );
             services.AddDbContext<TodoContext>(opt => opt.UseInMemoryDatabase("TodoList"));
+            services.AddDbContext<ProductContext>(opt => opt.UseInMemoryDatabase("ProductList"));
             services.AddControllers();
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
