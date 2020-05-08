@@ -143,4 +143,3 @@ C:\Users\sonho\Desktop\Web API\Demo01\Demo01\bin\Debug\netcoreapp3.1\ru\Microsof
 C:\Users\sonho\Desktop\Web API\Demo01\Demo01\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\sonho\Desktop\Web API\Demo01\Demo01\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\sonho\Desktop\Web API\Demo01\Demo01\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\sonho\Desktop\Web API\Demo01\Demo01\obj\Debug\netcoreapp3.1\Demo01.csprojAssemblyReference.cache
