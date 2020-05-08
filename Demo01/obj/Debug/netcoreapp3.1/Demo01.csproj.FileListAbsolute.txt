@@ -68,8 +68,6 @@ C:\Users\sonho\Desktop\Web API\Demo01\Demo01\bin\Debug\netcoreapp3.1\runtimes\wi
 C:\Users\sonho\Desktop\Web API\Demo01\Demo01\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\sonho\Desktop\Web API\Demo01\Demo01\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\sonho\Desktop\Web API\Demo01\Demo01\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\sonho\Desktop\Web API\Demo01\Demo01\obj\Debug\netcoreapp3.1\Demo01.csproj.CoreCompileInputs.cache
-C:\Users\sonho\Desktop\Web API\Demo01\Demo01\obj\Debug\netcoreapp3.1\Demo01.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\sonho\Desktop\Web API\Demo01\Demo01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\sonho\Desktop\Web API\Demo01\Demo01\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
 C:\Users\sonho\Desktop\Web API\Demo01\Demo01\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
@@ -143,3 +141,6 @@ C:\Users\sonho\Desktop\Web API\Demo01\Demo01\bin\Debug\netcoreapp3.1\ru\Microsof
 C:\Users\sonho\Desktop\Web API\Demo01\Demo01\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\sonho\Desktop\Web API\Demo01\Demo01\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\sonho\Desktop\Web API\Demo01\Demo01\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sonho\Desktop\Web API\Demo01\Demo01\obj\Debug\netcoreapp3.1\Demo01.csproj.CoreCompileInputs.cache
+C:\Users\sonho\Desktop\Web API\Demo01\Demo01\obj\Debug\netcoreapp3.1\Demo01.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sonho\Desktop\Web API\Demo01\Demo01\obj\Debug\netcoreapp3.1\Demo01.csprojAssemblyReference.cache

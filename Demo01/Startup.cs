@@ -31,7 +31,7 @@ namespace Demo01
                     });
             }
             );
-            services.AddDbContext<TodoContext>(opt => opt.UseInMemoryDatabase("TodoList"));
+            
             services.AddDbContext<ProductContext>(opt => opt.UseInMemoryDatabase("ProductList"));
             services.AddControllers();
         }
@@ -48,10 +48,8 @@ namespace Demo01
 
             app.UseRouting();
 
-            app.UseCors(policy => policy.AllowAnyOrigin()
-                        .AllowAnyMethod()
-                        .AllowAnyHeader());
-
+            app.UseCors("MyPolicy");
+            
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
