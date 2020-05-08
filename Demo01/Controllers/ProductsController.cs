@@ -22,7 +22,6 @@ namespace Demo01.Controllers
             {
                 _context.Products.Add(new Product
                 {
-
                     ProductId = 101,
                     Name = "Adidas - Superstar",
                     Description = "The best seller",
